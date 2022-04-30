@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/dietrichmax/google-analytics-next/issues"
   },
-  "homepage": "https://github.com/dietrichmax/google-analytics-next#readme"
+  "homepage": "https://github.com/dietrichmax/google-analytics-next#readme",
+  "dependencies": {
+    "eslint": "^8.14.0",
+    "next": "^12.1.5",
+    "prettier": "^2.6.2",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
 }
