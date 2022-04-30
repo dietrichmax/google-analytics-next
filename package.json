@@ -1,0 +1,24 @@
+{
+  "name": "google-analytics-next",
+  "version": "1.0.0",
+  "description": "Google Analytics integration for Next.js applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dietrichmax/google-analytics-next.git"
+  },
+  "keywords": [
+    "google",
+    "analytics",
+    "nextjs"
+  ],
+  "author": "Max Dietrich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dietrichmax/google-analytics-next/issues"
+  },
+  "homepage": "https://github.com/dietrichmax/google-analytics-next#readme"
+}
